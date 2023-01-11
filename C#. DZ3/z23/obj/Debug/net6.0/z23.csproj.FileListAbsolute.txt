@@ -1,0 +1,15 @@
+C:\Users\79009\Desktop\C#. DZ3\z23\bin\Debug\net6.0\z23.exe
+C:\Users\79009\Desktop\C#. DZ3\z23\bin\Debug\net6.0\z23.deps.json
+C:\Users\79009\Desktop\C#. DZ3\z23\bin\Debug\net6.0\z23.runtimeconfig.json
+C:\Users\79009\Desktop\C#. DZ3\z23\bin\Debug\net6.0\z23.dll
+C:\Users\79009\Desktop\C#. DZ3\z23\bin\Debug\net6.0\z23.pdb
+C:\Users\79009\Desktop\C#. DZ3\z23\obj\Debug\net6.0\z23.csproj.AssemblyReference.cache
+C:\Users\79009\Desktop\C#. DZ3\z23\obj\Debug\net6.0\z23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79009\Desktop\C#. DZ3\z23\obj\Debug\net6.0\z23.AssemblyInfoInputs.cache
+C:\Users\79009\Desktop\C#. DZ3\z23\obj\Debug\net6.0\z23.AssemblyInfo.cs
+C:\Users\79009\Desktop\C#. DZ3\z23\obj\Debug\net6.0\z23.csproj.CoreCompileInputs.cache
+C:\Users\79009\Desktop\C#. DZ3\z23\obj\Debug\net6.0\z23.dll
+C:\Users\79009\Desktop\C#. DZ3\z23\obj\Debug\net6.0\refint\z23.dll
+C:\Users\79009\Desktop\C#. DZ3\z23\obj\Debug\net6.0\z23.pdb
+C:\Users\79009\Desktop\C#. DZ3\z23\obj\Debug\net6.0\z23.genruntimeconfig.cache
+C:\Users\79009\Desktop\C#. DZ3\z23\obj\Debug\net6.0\ref\z23.dll
